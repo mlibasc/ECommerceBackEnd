@@ -1,4 +1,4 @@
-package com.EcommerceBackend.GiftCards;
+package com.EcommerceBackend.GiftCard;
 
 public class GiftCard {
     private String giftCardName = "cardNameHere";
